@@ -1,0 +1,42 @@
+# KiCad local settings
+*-local.kicad_prl
+*.kicad_prl
+
+# KiCad autosave and backup files
+*-backups/
+_autosave-*
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# KiCad temporary and lock files
+*.lck
+~*.lck
+*.tmp
+*.temp
+*.kicad_pcb~
+*.kicad_sch~
+
+# KiCad rescue files
+*-rescue.kicad_sym
+*-rescue.lib
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Local file history
+.history/
+
+# Generated manufacturing files
+# Gerber/
+# gerbers/
+# *.gbr
+# *.drl
+# *.zip
