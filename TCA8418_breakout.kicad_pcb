@@ -1016,6 +1016,17 @@
 			(uuid "74cceb26-5dc6-4fe2-addf-72252246f741")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/libraries/RTW0024B.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
 		(layer "F.Cu")
@@ -1351,6 +1362,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/libraries/c-282834-2-c-3d.stp"
+			(offset
+				(xyz 1.25 -3.25 3)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2024,6 +2046,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/libraries/c-1-282834-0-c-3d.stp"
+			(offset
+				(xyz 11.45 -3.25 3)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2933,6 +2966,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/libraries/c-282834-8-c-3d.stp"
+			(offset
+				(xyz 8.875 -3.25 3)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
@@ -3511,6 +3555,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/libraries/c-282834-4-c-3d.stp"
+			(offset
+				(xyz 3.75 -3.25 3)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
